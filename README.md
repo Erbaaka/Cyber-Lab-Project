@@ -27,6 +27,9 @@ Attack name | Status | Severity | Respond
 - The 'rockyou.txt' wordlist file have around 10000 wordlist.
 - Duration of attack may vary.
 
+## Documentation
+Google Drive link : https://drive.google.com/file/d/1EtE4Q9lWCHPrE0um15hDXVsn0doLYSK_/view?usp=sharing
+
 ## References
 - Wazuh Documentation (https://documentation.wazuh.com/)
 - Hydra (https://www.kali.org/tools/hydra/)
