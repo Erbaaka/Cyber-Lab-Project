@@ -29,6 +29,7 @@ Attack name | Status | Severity | Respond
 
 ## Documentation
 Google Drive link : https://drive.google.com/file/d/1EtE4Q9lWCHPrE0um15hDXVsn0doLYSK_/view?usp=sharing
+Narrative documentation : https://medium.com/@rafi.lucky12/red-vs-blue-team-mini-lab-hydra-vs-wazuh-monitoring-264a5ea95525
 
 ## References
 - Wazuh Documentation (https://documentation.wazuh.com/)
